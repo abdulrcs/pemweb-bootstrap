@@ -1,0 +1,14 @@
+{
+  "Bootstrap Autocomplete for Component": {
+    "prefix": "bac",
+    "body": [
+      "<head>",
+      "  <link rel=\"stylesheet\" href=\"../scss/main.css\" />",
+      "</head>",
+      "",
+      "<div class=\"d-flex\"></div>",
+      ""
+    ],
+    "description": "Bootstrap Autocomplete for Component"
+  }
+}

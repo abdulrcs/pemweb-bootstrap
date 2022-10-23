@@ -1,0 +1,63 @@
+$font-family-base: 'Mulish', sans-serif;
+$nav-link-font-size: 14px;
+
+@import '../node_modules/bootstrap/scss/bootstrap.scss';
+
+.text-hero {
+  font-size: 36px;
+}
+
+.bg-olive {
+  background: #fff7f5;
+}
+
+.spacer {
+  margin-top: 100px;
+  margin-bottom: 200px;
+}
+
+.p-secondary {
+  color: #212529;
+}
+
+.p-innermid {
+  padding-top: 70px;
+  padding-bottom: 70px;
+}
+
+.content-hold {
+  width: 50%;
+}
+
+.testimony-desc {
+  font-size: 22px;
+}
+
+.inner-mid {
+  padding-top: 70px;
+  padding-bottom: 70px;
+  border-radius: 24px;
+  background-image: url('https://ordoapps.com/images/bg/landing-sejauh-ini.png');
+}
+
+.cta-gray {
+  background: #3b4757;
+
+  &-button {
+    background: #252f3d;
+    border: 0;
+  }
+
+  &-img {
+    opacity: 0.5;
+  }
+}
+
+.text-justify {
+  text-align: justify;
+}
+
+.btn-yellow {
+  background: #f57d1a;
+  color: white;
+}
