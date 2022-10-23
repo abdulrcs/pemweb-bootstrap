@@ -60,4 +60,9 @@ $nav-link-font-size: 14px;
 .btn-yellow {
   background: #f57d1a;
   color: white;
+
+  &:hover {
+    background: #f57d1a;
+    color: white;
+  }
 }

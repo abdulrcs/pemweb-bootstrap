@@ -10992,4 +10992,8 @@ textarea.form-control-lg {
 .btn-yellow {
   background: #f57d1a;
   color: white;
+}
+.btn-yellow:hover {
+  background: #f57d1a;
+  color: white;
 }/*# sourceMappingURL=main.css.map */
