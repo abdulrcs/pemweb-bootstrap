@@ -25,8 +25,10 @@ $nav-link-font-size: 14px;
   padding-bottom: 70px;
 }
 
-.content-hold {
-  width: 50%;
+@media (min-width: 768px) {
+  .content-hold {
+    width: 50%;
+  }
 }
 
 .testimony-desc {
@@ -64,5 +66,17 @@ $nav-link-font-size: 14px;
   &:hover {
     background: #f57d1a;
     color: white;
+  }
+}
+
+.img-hero {
+  width: 100%;
+  margin-bottom: 24px;
+}
+
+@media (min-width: 768px) {
+  .img-hero {
+    width: 50%;
+    margin-bottom: 0px;
   }
 }
